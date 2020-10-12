@@ -9,9 +9,9 @@
     <link rel="icon" href="https://drive.google.com/uc?id=1ie99x55qq4v6KR0aJZOzuv42yPJfF5Bg" type="image/x-icon">
     <!-- Stylesheets-->
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Montserrat:400,500,600,700%7CPoppins:400%7CTeko:300,400">
-    <link rel="stylesheet" href="https://drive.google.com/uc?id=1_j00OU53V3_KKS9UqolfnkuF4zWLQJY_">
-    <link rel="stylesheet" href="https://drive.google.com/uc?id=1BZES2bsrLQF2KAn35cJSWlptybr-ZRiW">
-    <link rel="stylesheet" href="https://drive.google.com/uc?id=1r9Sq_YPwkBbqj20lU2i3rKOkucbmiLEa">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/fonts.css">
+    <link rel="stylesheet" href="css/style.css">
     <style>.ie-panel{display: none;background: #212121;padding: 10px 0;box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3);clear: both;text-align:center;position: relative;z-index: 1;} html.ie-10 .ie-panel, html.lt-ie-10 .ie-panel {display: block;}</style>
   </head>
   <body>
